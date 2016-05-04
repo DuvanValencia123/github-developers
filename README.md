@@ -2,4 +2,4 @@
 
 test repository github
 
-[visita mi blog]{direción del blog}
+[visita mi blog]
